@@ -1,0 +1,8 @@
+patient_id,name,age,gender,test,result,unit,ref_low,ref_high,date
+P001,Asha Reddy,34,F,Hemoglobin,13.2,g/dL,12,15.5,2026-10-01
+P001,Asha Reddy,34,F,Fasting Glucose,5.2,mmol/L,3.9,5.6,2026-10-01
+P002,Ravi Kumar,52,M,Fasting Glucose,108,mg/dL,70,100,2026-10-02
+P002,Ravi Kumar,52,M,Cholesterol,5.9,mmol/L,0,5.18,2026-10-02
+P003,Meena Iyer,41,F,Potassium,6.9,mmol/L,3.5,5.1,2026-10-03
+P004,Suresh Babu,29,M,WBC,7.4,x10^3/uL,4,11,2026-10-04
+P004,Suresh Babu,29,M,Hemoglobin,13.8,g/dL,13,17,2026-10-04
